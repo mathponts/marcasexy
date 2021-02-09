@@ -1,2 +1,2 @@
-# marcasexy
- App para a loja Marcasexy
+# Marcasexy
+ App para a loja virtual Marcasexy.
